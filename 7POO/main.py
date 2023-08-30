@@ -27,6 +27,8 @@ print(garrafa)
 stanley = Garrafa(100, 'preto', 'shopee')
 print(stanley)
 
+print(garrafa == stanley)
+
 
 stanley.encher()
 
